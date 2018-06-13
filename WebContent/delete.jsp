@@ -10,6 +10,7 @@
 <link href="css/commons.css" rel="stylesheet">
 </head>
 <body>
+
 <p>削除を行うデータのIDを入力してください<br>
 <span class="required"></span>は必須です</p>
 
